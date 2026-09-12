@@ -1,50 +1,60 @@
-# Welcome to your Expo app 👋
+# 🌍 TripTales – AI-Powered Tourism Planner
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+TripTales is an AI-powered tourism planning application that helps users create personalized travel plans based on their budget, available time, interests, weather, crowd levels, food preferences, and accommodation needs.
 
-## Get started
+## ✨ Features
 
-1. Install dependencies
+- 🤖 AI-powered travel planning
+- 💰 Budget-based recommendations
+- ⏰ Time-based itinerary planning
+- 🌦️ Weather-aware recommendations
+- 👥 Crowd-aware destination suggestions
+- 🍴 Food recommendations
+- 🏨 Hotel suggestions
+- 🔐 Mobile OTP and Google Login
+- 👤 User Profile
 
-   ```bash
-   npm install
-   ```
+## 🗺️ Travel Categories
 
-2. Start the app
+- 🧍 Solo Travel
+- 💰 Budget Travel
+- 👨‍👩‍👧 Family Trips
+- 👭 Friends
+- 🛕 Sacred Travel
+- 🎓 School & College Trips
+- 🏛️ Legacy of Tamil Nadu
 
-   ```bash
-   npx expo start
-   ```
+## 📱 Application Screens
 
-In the output, you'll find options to open the app in a
+- 🏠 Home
+- 🤖 AI Travel Chatbot
+- 🗓️ Trip Planner
+- 👤 Profile
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠️ Technologies Used
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- React Native
+- Expo
+- JavaScript
+- Node.js
+- AI / Chatbot Integration
+- Weather & Travel APIs
 
-## Get a fresh project
+## 🎯 Objective
 
-When you're ready, run:
+The main objective of TripTales is to make travel planning simple, personalized, affordable, and convenient.
 
-```bash
-npm run reset-project
-```
+## 🚀 Future Enhancements
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- Real-time hotel and ticket booking
+- Local vendor integration
+- AI voice assistant
+- Real-time crowd monitoring
+- Personalized travel recommendations
+- Emergency travel assistance
 
-## Learn more
+## 👩‍💻 Developer
 
-To learn more about developing your project with Expo, look at the following resources:
+**S. Priyadharshini**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+ECE Student | Software & IoT Enthusiast
